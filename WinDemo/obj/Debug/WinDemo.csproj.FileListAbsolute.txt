@@ -1,0 +1,11 @@
+C:\Users\Thomas\Desktop\Toegepaste Informatica\2TI\.Net\Pluralsight\Pluralsight_Test1\WinDemo\bin\Debug\WinDemo.exe.config
+C:\Users\Thomas\Desktop\Toegepaste Informatica\2TI\.Net\Pluralsight\Pluralsight_Test1\WinDemo\bin\Debug\WinDemo.exe
+C:\Users\Thomas\Desktop\Toegepaste Informatica\2TI\.Net\Pluralsight\Pluralsight_Test1\WinDemo\bin\Debug\WinDemo.pdb
+C:\Users\Thomas\Desktop\Toegepaste Informatica\2TI\.Net\Pluralsight\Pluralsight_Test1\WinDemo\bin\Debug\DataLayer.dll
+C:\Users\Thomas\Desktop\Toegepaste Informatica\2TI\.Net\Pluralsight\Pluralsight_Test1\WinDemo\bin\Debug\DataLayer.pdb
+C:\Users\Thomas\Desktop\Toegepaste Informatica\2TI\.Net\Pluralsight\Pluralsight_Test1\WinDemo\obj\Debug\WinDemo.csprojResolveAssemblyReference.cache
+C:\Users\Thomas\Desktop\Toegepaste Informatica\2TI\.Net\Pluralsight\Pluralsight_Test1\WinDemo\obj\Debug\WinDemo.Form1.resources
+C:\Users\Thomas\Desktop\Toegepaste Informatica\2TI\.Net\Pluralsight\Pluralsight_Test1\WinDemo\obj\Debug\WinDemo.Properties.Resources.resources
+C:\Users\Thomas\Desktop\Toegepaste Informatica\2TI\.Net\Pluralsight\Pluralsight_Test1\WinDemo\obj\Debug\WinDemo.csproj.GenerateResource.Cache
+C:\Users\Thomas\Desktop\Toegepaste Informatica\2TI\.Net\Pluralsight\Pluralsight_Test1\WinDemo\obj\Debug\WinDemo.exe
+C:\Users\Thomas\Desktop\Toegepaste Informatica\2TI\.Net\Pluralsight\Pluralsight_Test1\WinDemo\obj\Debug\WinDemo.pdb
